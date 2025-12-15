@@ -75,5 +75,3 @@ npm start
 
 
 ---
-
-Would you like me to help you write a section for contributors or deployment instructions next?
