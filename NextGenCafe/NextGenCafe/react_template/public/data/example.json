@@ -1,0 +1,11 @@
+{
+  "message": "This is sample data for the NextGen Café application",
+  "features": [
+    "Table-based authentication",
+    "Premium menu with AR integration",
+    "Real-time order tracking", 
+    "Secure payment processing",
+    "PDF receipt generation"
+  ],
+  "status": "active"
+}
